@@ -1,10 +1,10 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  # For All You Need README
+  # Test Title
 
   ## Description
-   Filler
+  This is a description
 
   ## Table of Contents
   1. [Installation](#installation)
@@ -15,19 +15,16 @@
   6. [Questions](#questions)
 
   ## Installation
-  - Fork the repo down to your local machine
-  - Install nodeJS using `npm i inquirer@8.2.4` in your terminal
-  - Then youre good to go!
+  This is how you install
 
   ## Usage
-  Once installed, to get your README file, type `node index.js` in the terminal.
-  Then follow the promps given to you on your terminal.
+  These are the usadge details
 
   ## Contributing Guidelines
-  To contribute to this project create a forked repo and then make a pull request. Any feedback is appreciated!
+  This is how you contribute
 
   ## Tests
-  Since this is a pretty simple project, the extent of the tests would be inputing different values where they shouldnt be.
+  You can test like this
 
   ## License
   Licensed under [MIT License](https://opensource.org/licenses/MIT)
