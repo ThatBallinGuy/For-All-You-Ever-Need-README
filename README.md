@@ -4,7 +4,7 @@
   # For All You Need README
 
   ## Description
-   Filler
+   This project uses JavaScript and NodeJS to create README files for current and future projects. It prompts the user to input data about their project and will create an appropriate READ me using that data.
 
   ## Table of Contents
   1. [Installation](#installation)
@@ -21,7 +21,7 @@
 
   ## Usage
   Once installed, to get your README file, type `node index.js` in the terminal.
-  Then follow the promps given to you on your terminal.
+  Then follow the prompts given to you on your terminal.
 
   ## Contributing Guidelines
   To contribute to this project create a forked repo and then make a pull request. Any feedback is appreciated!
